@@ -3,4 +3,3 @@ builder = "DOCKERFILE"
 dockerfilePath = "Dockerfile"
 
 [deploy]
-#startCommand = "python -m http.server 8080"
